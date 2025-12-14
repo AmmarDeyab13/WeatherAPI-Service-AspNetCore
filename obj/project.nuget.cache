@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "AMCFn7dsYSs=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sch\\source\\repos\\webapi\\project20ideas\\WeatherAPIWrapperService\\WeatherAPIWrapperService\\WeatherAPIWrapperService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sch\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.10\\microsoft.aspnetcore.openapi.9.0.10.nupkg.sha512",
+    "C:\\Users\\sch\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\9.0.11\\microsoft.extensions.caching.abstractions.9.0.11.nupkg.sha512",
+    "C:\\Users\\sch\\.nuget\\packages\\microsoft.extensions.caching.stackexchangeredis\\9.0.11\\microsoft.extensions.caching.stackexchangeredis.9.0.11.nupkg.sha512",
+    "C:\\Users\\sch\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.11\\microsoft.extensions.dependencyinjection.abstractions.9.0.11.nupkg.sha512",
+    "C:\\Users\\sch\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\9.0.11\\microsoft.extensions.logging.abstractions.9.0.11.nupkg.sha512",
+    "C:\\Users\\sch\\.nuget\\packages\\microsoft.extensions.options\\9.0.11\\microsoft.extensions.options.9.0.11.nupkg.sha512",
+    "C:\\Users\\sch\\.nuget\\packages\\microsoft.extensions.primitives\\9.0.11\\microsoft.extensions.primitives.9.0.11.nupkg.sha512",
+    "C:\\Users\\sch\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512",
+    "C:\\Users\\sch\\.nuget\\packages\\pipelines.sockets.unofficial\\2.2.8\\pipelines.sockets.unofficial.2.2.8.nupkg.sha512",
+    "C:\\Users\\sch\\.nuget\\packages\\stackexchange.redis\\2.7.27\\stackexchange.redis.2.7.27.nupkg.sha512",
+    "C:\\Users\\sch\\.nuget\\packages\\system.io.pipelines\\5.0.1\\system.io.pipelines.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
